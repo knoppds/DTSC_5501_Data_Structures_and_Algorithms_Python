@@ -1,0 +1,241 @@
+1. Introduction to Python	1
+1.1 Introduction	1
+1.2 Software	1
+1.3 Development Tools	4
+1.3.1 Advanced Python Tools	5
+1.3.2 Web Scraping Python Tools	6
+1.4 learning about the Python Compiler	7
+1.5 Python History	8
+1.6 Python Installation	10
+1.6.1 Step 1: Select Version of Python to Install	10
+1.6.2 Step 2: Download Python Executable Installer	10
+1.6.3 Step 3: Run Executable Installer	11
+1.6.4 Step 4: Verify Python Was Installed on Windows	12
+1.6.5 Step 5: Verify Pip Was Installed	12
+1.6.6 Step 6: Add Python Path to Environment Variables (Optional)	14
+1.6.7 Step 7: Install virtualnv (Optional)	15
+1.7 How to Write a Python Program	15
+1.8 Conclusion	23
+2. Data Types and Variables	25
+2.1 Python Integer Values	25
+2.1.1 Complex Numbers	29
+2.2 Variables and Assignment	35
+2.3 Identifiers in Python	39
+2.4 Various Types of Floating Point Numbers	42
+2.5 Control Codes within Strings	44
+2.6 User Input	46
+2.7 Evaluation (eval( )) Function	48
+2.8 Controlling (print( )) Function	50
+2.9 Conclusion	52
+3. Operators	53
+3.1 Python Expressions and Operators	53
+3.1.1 Comparison Operators	59
+3.1.1.1 Floating-Point Value Equality Comparison	60
+3.1.2 Logical Operators	60
+3.1.2.1 Logical Expressions Using Boolean Operands	61
+3.1.2.2 Evaluation of Boolean and Non-Boolean Expressions	62
+3.1.3 Chained Comparisons	68
+3.1.4 Bitwise Operators	69
+3.1.5 Identity Operators	71
+3.1.6 Augmented Assignment Operators	72
+3.1.7 Comparison of Arithmetic and Bitwise Operators	73
+3.2 Operator Associativity and Precedence	73
+3.3 Comments in Python Programming	77
+3.4 Bugs in Programs	78
+3.4.1 Syntax Errors	78
+3.4.2 Run-time Errors	79
+3.4.3 Logic Errors	82
+3.5 Examples of Arithmetic	83
+3.6 Algorithms	86
+3.7 Conclusion	88
+4. Branch Control Structure	89
+4.1 Boolean Expressions	89
+4.2 Additional Boolean Statements	90
+4.3 The Simple If Statement	91
+4.4 If/Else Control Statements	96
+4.5 Compound Boolean Expressions	99
+4.6 Nested If/Else Conditional Statements	103
+4.7 Multipile Decision-Making Statements	107
+4.8 Expressions Of Decision-Making Conditional Statements	109
+4.9 Errors in Decision-Making Statements	111
+4.10 Conclusion	112
+5. Iterative Control Structure	113
+5.1 The While Loop	113
+5.2 Difference Between Definite and Indefinite Loops	119
+5.3 The For Loop	121
+5.4 Nested Loop Statements	123
+5.5 Abnormal Loop Termination	127
+5.5.1 The Break Statement	127
+5.5.2 Continue Statements	130
+5.6 Infinite Looping Statement	131
+5.7 Examples of Iteration	136
+5.7.1 Computation of a Square Root	136
+5.7.2 Structure of Tree Drawing	138
+5.8 Program to Print Prime Numbers	141
+5.8.1 Inputs	144
+5.9 Conclusion	145
+6. Functions	147
+6.1 Introduction to Functions	147
+6.1.1 Built-in Functions	147
+6.1.2 User-defined Functions	148
+6.2 The Meaning of a Function	150
+6.3 Documenting Functions	152
+6.3.1 Importance of Documenting a Function	152
+6.3.2 Documenting Functions with Python Docstrings	153
+6.3.3 Python Docstring Formats	155
+6.4 GCD Function	155
+6.5 The Main Function	156
+6.6 The Calling Function	157
+6.7 Argument Passing in Parameters (Actual and Formal)	160
+6.7.1 Parameters vs. Arguments	160
+6.7.2 Function Arguments in Python	160
+6.7.3 Global vs. Local Variables	163
+6.7.4 Anonymous Functions in Python	164
+6.8 The Return Statement and Void Function	165
+6.9 Scope of Variables and Their Lifetimes	166
+6.10 Function Examples	168
+6.10.1 Function to Generate Prime Numbers	168
+6.10.2 Command Interpreter	170
+6.10.3 Restricted Input	171
+6.10.4 Die Rolling Simulation	172
+6.10.5 Tree Drawing Function	174
+6.10.6 Floating-Point Equality	175
+6.11 Arguments Passed by Reference Value	177
+6.12 Recursion	179
+6.13 Default Arguments	182
+6.14 Time Functions	183
+6.15 Random Functions	185
+6.16 Reusable Functions	188
+6.17 Mathematical Functions	190
+6.18 Conclusion	192
+7. Lists	195
+7.1 Introduction to Lists	195
+7.2 Creating Lists	195
+7.3 Fundamental List Operations	197
+7.3.1 List () Functions	197
+7.4 Slicing and Indexing in Lists	198
+7.4.1 Modifying List Items	200
+7.5 Built-In Functions Used in Lists	202
+7.6 List Methods	203
+7.6.1 Populating Lists Items	206
+7.6.2 List Traversing	206
+7.6.3 Nested Lists	207
+7.7 Del Statement	207
+7.8 List Operations	208
+7.8.1 Searching Problem	208
+7.8.1.1 Linear Search	208
+7.8.1.2 Binary Search	211
+7.8.2 Sorting	218
+7.8.2.1 Selection Sort	219
+7.8.2.2 Merge Sort	221
+7.8.2.3 Sorting Comparison	222
+7.9 Reversing of Lists	223
+7.10 Conclusion	224
+8. Dictionaries	225
+8.1 Introduction	225
+8.2 How a Dictionary Is Created	225
+8.3 Accessing and Altering Key: Value Pairs in Dictionaries	227
+8.3.1 The dict () Function	228
+8.4 Dictionaries with Built-in Functions	229
+8.5 Dictionary Methods	231
+8.5.1 Population of Primary Dictionaries: Value Pairs	234
+8.5.2 Dictionary Traversing	234
+8.6 The Del Statement	236
+8.7 Conclusion	236
+9. Tuples and Sets	237
+9.1 Creating Tuples	237
+9.2 Basic Tuple Operations	238
+9.2.1 The tuple () Function	240
+9.3 Indexing and Slicing in Tuples	241
+9.4 Built-in Functions of Tuples	244
+9.5 Comparison Between Tuples and Lists	244
+9.6 Comparsion Between Tuples and Dictionaries	246
+9.7 Tuple Methods	247
+9.7.1 Tuple Packing and Unpacking	248
+9.7.2 Tuples Traversing	248
+9.7.3 Tuples with Items	249
+9.8 Use of the Zip() Function	250
+9.9 Python Sets	251
+9.10 Set Methods	252
+9.10.1 Traversing of Sets	254
+9.11 The Frozen Set	255
+9.12 Conclusion	256
+10. Strings and Special Methods	257
+10.1 Introduction	257
+10.2 Creating and Storing Strings	257
+10.2.1 String str() Function	258
+10.3 Basic String Operation	258
+10.3.1 String Comparison	260
+10.3.2 Built-in Functions Used on Strings	260
+10.4 Accessing Characters by the Index Number in a String	261
+10.5 Slicing and Joining in Strings	263
+10.5.1 Specifying the Steps of a Slice Operation	264
+10.5.2 Joining Strings Using the join() Method	265
+10.5.3 Split Strings Using the split () Method	265
+10.5.4 Immutable Strings	266
+10.5.5 String Traversing	267
+10.6 String Methods	267
+10.7 Formatting Strings	272
+10.7.1 Format Specifiers	272
+10.7.2 Escape Sequences	274
+10.7.3 Raw Strings	274
+10.7.4 Unicodes	276
+10.8 Conclusion	278
+11. Object-oriented Programming	279
+11.1 Introduction	279
+11.2 Classes and Objects	280
+11.3 Creating Classes in Python	281
+11.4 How to Create Objects in Python	282
+11.5 The Constructor Method	286
+11.6 Classes with Multiple Objects	290
+11.6.1 Using Objects as Arguments	291
+11.6.2 Objects as Return Values	292
+11.7 Difference Between Class Attributes and Data Attributes	292
+11.8 Encapsulation	293
+11.8.1 Using Private Instance Variables and Methods	294
+11.9 Inheritance	296
+11.10 Polymorphism	301
+11.10.1 Python Operator Overloading	305
+11.11 Conclusion	311
+12. GUI Programming Using Tkinter	313
+12.1 Introduction	313
+12.2 Getting Started with Tkinter	313
+12.3 Processing Events	316
+12.4 The Widget Classes	317
+12.4.1 Toplevel	318
+12.4.2 Frames	320
+12.4.3 Labels	322
+12.4.4 Buttons	323
+12.4.5 Entry	324
+12.4.6 Radio Buttons	325
+12.4.7 Check Buttons	327
+12.4.8 Messages	328
+12.4.9 List Boxes	328
+12.5 Canvases	329
+12.6 Geometry Managers	331
+12.7 Loan Calculators	331
+12.8 Displaying Images	334
+12.9 Menus	335
+12.10 Popup Menus	336
+12.11 The Mouse, Key Events and Bindings	338
+12.12 Animations	342
+12.13 Scrollbars	344
+12.14 Standard Dialog Boxes	345
+12.15 Conclusion	347
+13. Python Exception Handling: GUI Programming Using Tkinter	349
+13.1 Introduction	349
+13.2 Exception Examples	349
+13.3 Common Gateway Interfaces	358
+13.4 Database Access in Python	366
+13.4.1 What is MySQLdb?	366
+13.4.2 Database Connection	368
+13.5 The Read Operation	371
+13.6 Python Multithreaded Programming	379
+13.6.1 Starting a New Thread	379
+13.6.2 The Threading Module	380
+13.6.3 Thread Module	381
+13.6.4 Priority Multithreaded Queue	383
+13.7 Networking in Python	383
+13.7.1 What Are Sockets?	383
+13.7.2 The Socket Module	383
+13.8 Conclusion	387
